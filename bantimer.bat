@@ -1,1 +1,2 @@
-python D:\D\code\2\bantimer\main.py
+cd "%~dp0"
+python main.py
